@@ -1,0 +1,9 @@
+campfire.png
+size:32,16
+repeat:none
+campfire
+index:1
+bounds:0,0,16,16
+campfire
+index:0
+bounds:16,0,16,16
