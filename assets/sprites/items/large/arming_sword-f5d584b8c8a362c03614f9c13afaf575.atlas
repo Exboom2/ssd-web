@@ -1,0 +1,13 @@
+arming_sword.png
+size:256,64
+repeat:none
+item
+bounds:0,0,16,16
+prepare
+bounds:0,16,48,48
+swing
+index:0
+bounds:48,16,48,48
+swing
+index:1
+bounds:96,16,48,48
