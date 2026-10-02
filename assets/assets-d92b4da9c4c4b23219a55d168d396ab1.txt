@@ -34,6 +34,8 @@ sprites/entities/other/fire_burst.atlas
 sprites/entities/other/fire_burst.png
 sprites/items/large/arming_sword.atlas
 sprites/items/large/arming_sword.png
+sprites/items/large/honed_greatsword.atlas
+sprites/items/large/honed_greatsword.png
 sprites/shadow.png
 ui/bar_base.png
 ui/bar_hp.png

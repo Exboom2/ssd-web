@@ -669,6 +669,6 @@
   <object id="138" type="WesternTree" x="1324.24" y="1854.55"/>
   <object id="139" type="WesternTree" x="1303.03" y="1987.88"/>
   <object id="140" type="WesternTree" x="1415.15" y="1963.64"/>
-  <object id="207" type="armingSword" x="122" y="1977"/>
+  <object id="207" type="honedGreatsword" x="122" y="1977"/>
  </objectgroup>
 </map>

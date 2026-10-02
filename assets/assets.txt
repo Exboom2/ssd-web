@@ -24,7 +24,7 @@ i:ui/tile_yes.png:ui/tile_yes-a21fd57a1cff4ec061354eabcc2bec33.png:197:image/png
 i:ui/logo_old.png:ui/logo_old-9bbe08ee4302383ef563046864f0d3c1.png:7086:image/png:1
 d:maps:maps:0:application/unknown:1
 d:maps/test:maps/test:0:application/unknown:1
-b:maps/test/wooded.tmx:maps/test/wooded-10c957dad264427be54ed9ec085b26a0.tmx:150264:application/unknown:1
+b:maps/test/wooded.tmx:maps/test/wooded-f7ec41eb52aebdff5d046f4bcbc7d613.tmx:150268:application/unknown:1
 i:maps/test/wooded_tiles.png:maps/test/wooded_tiles-a7e5d04b18cea0a94ca40047fc33265f.png:7446:image/png:1
 b:maps/test/wooded_tiles.tsx:maps/test/wooded_tiles-9f716d820bbf5e7a0171c5370d0c7454.tsx:7023:application/unknown:1
 d:audio:audio:0:application/unknown:1
@@ -44,11 +44,13 @@ a:audio/sfx/click.wav:audio/sfx/click-6c7767887f75db1d5e7cd9508e07bace.wav:10984
 a:audio/sfx/fireball.wav:audio/sfx/fireball-3365cb7ba6e364ca682d5275dde1dc8e.wav:294990:audio/x-wav:1
 a:audio/sfx/pickup_sp.wav:audio/sfx/pickup_sp-a187c9dea5ea5758cb0cfc4c29564ab7.wav:1059918:audio/x-wav:1
 a:audio/sfx/elden.mp3:audio/sfx/elden-7d183da771cc48621e8f61248163ae42.mp3:6815242:audio/mpeg:1
-t:assets.txt:assets-251bd103e0d7ea3451c1408873a4ae94.txt:1254:text/plain:1
+t:assets.txt:assets-d92b4da9c4c4b23219a55d168d396ab1.txt:1338:text/plain:1
 d:sprites:sprites:0:application/unknown:1
 i:sprites/shadow.png:sprites/shadow-ef0740b9f4f0fd21322aff8120a25113.png:143:image/png:1
 d:sprites/items:sprites/items:0:application/unknown:1
 d:sprites/items/large:sprites/items/large:0:application/unknown:1
+i:sprites/items/large/honed_greatsword.png:sprites/items/large/honed_greatsword-71a6f1d2f77fda9750f7a846c220c627.png:2166:image/png:1
+t:sprites/items/large/honed_greatsword.atlas:sprites/items/large/honed_greatsword-4f52b825a80707d52cf12240088b3180.atlas:227:application/unknown:1
 t:sprites/items/large/arming_sword.atlas:sprites/items/large/arming_sword-f5d584b8c8a362c03614f9c13afaf575.atlas:155:application/unknown:1
 i:sprites/items/large/arming_sword.png:sprites/items/large/arming_sword-9527143f90dc17fd547b501a41bba733.png:1119:image/png:1
 d:sprites/characters:sprites/characters:0:application/unknown:1
