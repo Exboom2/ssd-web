@@ -26,7 +26,7 @@ d:maps:maps:0:application/unknown:1
 d:maps/test:maps/test:0:application/unknown:1
 b:maps/test/wooded.tmx:maps/test/wooded-cdb7e02ca02e7deaae1221ec628d1973.tmx:117516:application/unknown:1
 i:maps/test/wooded_tiles.png:maps/test/wooded_tiles-a7e5d04b18cea0a94ca40047fc33265f.png:7446:image/png:1
-b:maps/test/wooded_tiles.tsx:maps/test/wooded_tiles-d4150c13753567380fed296e09dfb3d4.tsx:7035:application/unknown:1
+b:maps/test/wooded_tiles.tsx:maps/test/wooded_tiles-0fb7253c9284e773523a50a2a477d67f.tsx:7036:application/unknown:1
 d:audio:audio:0:application/unknown:1
 d:audio/music:audio/music:0:application/unknown:1
 a:audio/music/silence.mp3:audio/music/silence-4fd986fc9aeeb2d60ebf6007ac22a7cd.mp3:80666:audio/mpeg:1
