@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tileset version="1.10" tiledversion="1.12.2-83-g221be2066" name="wooded_tiles" tilewidth="16" tileheight="16" tilecount="60" columns="10">
+<tileset version="1.10" tiledversion="1.11.2" name="wooded_tiles" tilewidth="16" tileheight="16" tilecount="60" columns="10">
  <image source="wooded_tiles.png" width="160" height="96"/>
  <tile id="0">
   <properties>
@@ -13,7 +13,7 @@
  </tile>
  <tile id="2">
   <properties>
-   <property name="collision" type="bool" value="true"/>
+   <property name="collision" type="bool" value="false"/>
   </properties>
  </tile>
  <tile id="3">
