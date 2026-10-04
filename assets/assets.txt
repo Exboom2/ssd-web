@@ -44,7 +44,7 @@ a:audio/sfx/click.wav:audio/sfx/click-6c7767887f75db1d5e7cd9508e07bace.wav:10984
 a:audio/sfx/fireball.wav:audio/sfx/fireball-3365cb7ba6e364ca682d5275dde1dc8e.wav:294990:audio/x-wav:1
 a:audio/sfx/pickup_sp.wav:audio/sfx/pickup_sp-a187c9dea5ea5758cb0cfc4c29564ab7.wav:1059918:audio/x-wav:1
 a:audio/sfx/elden.mp3:audio/sfx/elden-7d183da771cc48621e8f61248163ae42.mp3:6815242:audio/mpeg:1
-t:assets.txt:assets-d92b4da9c4c4b23219a55d168d396ab1.txt:1338:text/plain:1
+t:assets.txt:assets-48d0d6e2e0a4ecbccbbadf95971e997a.txt:1354:text/plain:1
 d:sprites:sprites:0:application/unknown:1
 i:sprites/shadow.png:sprites/shadow-ef0740b9f4f0fd21322aff8120a25113.png:143:image/png:1
 d:sprites/items:sprites/items:0:application/unknown:1
@@ -56,8 +56,8 @@ i:sprites/items/large/arming_sword.png:sprites/items/large/arming_sword-9527143f
 d:sprites/characters:sprites/characters:0:application/unknown:1
 t:sprites/characters/lily.atlas:sprites/characters/lily-65967250dbefa54dcdc057c2bda49abe.atlas:1795:application/unknown:1
 t:sprites/characters/rain.atlas:sprites/characters/rain-79d6e1c9c24499a32a34d28ee3aa911a.atlas:1795:application/unknown:1
-i:sprites/characters/lily.png:sprites/characters/lily-331883e6498fc5766d24d9b37039c25f.png:5495:image/png:1
-i:sprites/characters/rain.png:sprites/characters/rain-c61e57239b0ae72c7da772f9f4405094.png:4464:image/png:1
+i:sprites/characters/lily.png:sprites/characters/lily-e1a54fbd67f59909b39f3a786898e4dc.png:3572:image/png:1
+i:sprites/characters/rain.png:sprites/characters/rain-f24cc73052856b7f97bb482e5c505f46.png:3056:image/png:1
 d:sprites/characters/spr:sprites/characters/spr:0:application/unknown:1
 i:sprites/characters/spr/lily_spr.png:sprites/characters/spr/lily_spr-f40ad2bd38f606439d09a1c9817d5eaf.png:1547:image/png:1
 i:sprites/characters/spr/rain_spr.png:sprites/characters/spr/rain_spr-68bf53f5b17aafd7a1b1dab4bdeb0edf.png:1650:image/png:1
@@ -70,6 +70,7 @@ i:sprites/entities/other/fire_burst.png:sprites/entities/other/fire_burst-3df52d
 d:sprites/entities/breakables:sprites/entities/breakables:0:application/unknown:1
 i:sprites/entities/breakables/westernTree.png:sprites/entities/breakables/westernTree-5d7acce0549296a9ea5952a87a842beb.png:391:image/png:1
 i:sprites/entities/breakables/smallStone.png:sprites/entities/breakables/smallStone-2e1816317fa6bd8e25ca34e1f7edc743.png:253:image/png:1
+i:sprites/fog.png:sprites/fog-b18da0fbb130d704576d117471aab4b4.png:12910:image/png:1
 t:com/badlogic/gdx/graphics/g3d/particles/particles.fragment.glsl:particles.fragment-b90524761fdf09b0a836056d590c30b8.glsl:820:application/unknown:1
 t:com/badlogic/gdx/graphics/g3d/particles/particles.vertex.glsl:particles.vertex-f25b8b2fae10b9bfa09bfdd484923148.glsl:2886:application/unknown:1
 t:com/badlogic/gdx/graphics/g3d/shaders/default.fragment.glsl:default.fragment-e1c018bd48044c8b67c7bbc53145e540.glsl:5874:application/unknown:1

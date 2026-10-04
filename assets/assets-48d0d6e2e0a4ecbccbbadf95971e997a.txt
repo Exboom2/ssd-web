@@ -32,6 +32,7 @@ sprites/entities/other/campfire.atlas
 sprites/entities/other/campfire.png
 sprites/entities/other/fire_burst.atlas
 sprites/entities/other/fire_burst.png
+sprites/fog.png
 sprites/items/large/arming_sword.atlas
 sprites/items/large/arming_sword.png
 sprites/items/large/honed_greatsword.atlas
