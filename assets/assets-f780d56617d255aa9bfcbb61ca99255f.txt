@@ -20,6 +20,7 @@ maps/test/wooded_tiles.png
 maps/test/wooded_tiles.tsx
 particles/hit.p
 particles/particle.png
+particles/rain.p
 sprites/characters/lily.atlas
 sprites/characters/lily.png
 sprites/characters/rain.atlas
