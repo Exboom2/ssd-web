@@ -19,6 +19,9 @@ maps/test/wooded.tmx
 maps/test/wooded_tiles.png
 maps/test/wooded_tiles.tsx
 particles/hit.p
+particles/leaf_0.png
+particles/leaf_1.png
+particles/leaves.p
 particles/particle.png
 particles/rain.p
 sprites/characters/lily.atlas

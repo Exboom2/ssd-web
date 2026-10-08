@@ -6,6 +6,9 @@ b:fonts/font.ttf:fonts/font-6e958e68a590d9a52979590d61ac79bf.ttf:163776:applicat
 t:version.txt:version-fb42e3e90f2c979add8b8f4791729d3d.txt:5:text/plain:1
 d:particles:particles:0:application/unknown:1
 i:particles/particle.png:particles/particle-80cd2ffbc5f91c261029362bd8e97f65.png:1821:image/png:1
+i:particles/leaf_0.png:particles/leaf_0-0814dea402f2ac71032ebefe06629a2f.png:147:image/png:1
+i:particles/leaf_1.png:particles/leaf_1-19bf6f33277494ecee39be7d35d61158.png:131:image/png:1
+b:particles/leaves.p:particles/leaves-650ccd4b032499f2ed58def70b9334d4.p:2523:application/unknown:1
 b:particles/hit.p:particles/hit-6699fed294adc28bb7a8662b1c19e071.p:2013:application/unknown:1
 b:particles/rain.p:particles/rain-afc69d9e6c67f8d1dc0cd9ae868f4c69.p:2334:application/unknown:1
 d:ui:ui:0:application/unknown:1
@@ -45,7 +48,7 @@ a:audio/sfx/click.wav:audio/sfx/click-6c7767887f75db1d5e7cd9508e07bace.wav:10984
 a:audio/sfx/fireball.wav:audio/sfx/fireball-3365cb7ba6e364ca682d5275dde1dc8e.wav:294990:audio/x-wav:1
 a:audio/sfx/pickup_sp.wav:audio/sfx/pickup_sp-a187c9dea5ea5758cb0cfc4c29564ab7.wav:1059918:audio/x-wav:1
 a:audio/sfx/elden.mp3:audio/sfx/elden-7d183da771cc48621e8f61248163ae42.mp3:6815242:audio/mpeg:1
-t:assets.txt:assets-f780d56617d255aa9bfcbb61ca99255f.txt:1371:text/plain:1
+t:assets.txt:assets-89ceff5af06c03955a4bb75043fae2bf.txt:1432:text/plain:1
 d:sprites:sprites:0:application/unknown:1
 i:sprites/shadow.png:sprites/shadow-ef0740b9f4f0fd21322aff8120a25113.png:143:image/png:1
 d:sprites/items:sprites/items:0:application/unknown:1
