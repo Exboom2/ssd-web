@@ -1,7 +1,7 @@
-audio/music/INFINITY.mp3
 audio/music/aspen_lullaby.mp3
 audio/music/aspen_march.mp3
 audio/music/home.mp3
+audio/music/infinity.mp3
 audio/music/mysterious_legion.mp3
 audio/music/silence.mp3
 audio/sfx/car_start.wav
@@ -32,6 +32,8 @@ sprites/characters/spr/lily_spr.png
 sprites/characters/spr/rain_spr.png
 sprites/entities/breakables/smallStone.png
 sprites/entities/breakables/westernTree.png
+sprites/entities/echoes/cubian_echo.atlas
+sprites/entities/echoes/cubian_echo.png
 sprites/entities/other/campfire.atlas
 sprites/entities/other/campfire.png
 sprites/entities/other/fire_burst.atlas

@@ -3,7 +3,7 @@ d:fonts:fonts:0:application/unknown:1
 t:fonts/font10.fnt:fonts/font10-48174b017276481dfd0f67a7535627b9.fnt:11017:application/unknown:1
 i:fonts/font10.png:fonts/font10-c31c9d229aef0527f8bf97959344a34b.png:10559:image/png:1
 b:fonts/font.ttf:fonts/font-6e958e68a590d9a52979590d61ac79bf.ttf:163776:application/unknown:1
-t:version.txt:version-fb42e3e90f2c979add8b8f4791729d3d.txt:5:text/plain:1
+t:version.txt:version-f2d8506c0829aae51b699a06962af51d.txt:14:text/plain:1
 d:particles:particles:0:application/unknown:1
 i:particles/particle.png:particles/particle-80cd2ffbc5f91c261029362bd8e97f65.png:1821:image/png:1
 i:particles/leaf_0.png:particles/leaf_0-0814dea402f2ac71032ebefe06629a2f.png:147:image/png:1
@@ -38,7 +38,7 @@ a:audio/music/aspen_lullaby.mp3:audio/music/aspen_lullaby-3d5c401dcc4f7738d44b67
 a:audio/music/aspen_march.mp3:audio/music/aspen_march-f0457ad9424df1206a9a953b61bdf231.mp3:276271:audio/mpeg:1
 a:audio/music/mysterious_legion.mp3:audio/music/mysterious_legion-b3ebb8c461ae2c76b265170fdcbca30b.mp3:615653:audio/mpeg:1
 a:audio/music/home.mp3:audio/music/home-305b183b3ff66f98156a3b8f1d62ae02.mp3:159242:audio/mpeg:1
-a:audio/music/INFINITY.mp3:audio/music/INFINITY-068b5cf8a46b1e22144e77b2945c4fa5.mp3:601025:audio/mpeg:1
+a:audio/music/infinity.mp3:audio/music/infinity-068b5cf8a46b1e22144e77b2945c4fa5.mp3:601025:audio/mpeg:1
 d:audio/sfx:audio/sfx:0:application/unknown:1
 a:audio/sfx/hit.wav:audio/sfx/hit-e9195226230196b76fa3945b82a582c5.wav:299598:audio/x-wav:1
 a:audio/sfx/car_start.wav:audio/sfx/car_start-e84ed401ea91e99e0d97954fd80f784b.wav:967758:audio/x-wav:1
@@ -48,7 +48,7 @@ a:audio/sfx/click.wav:audio/sfx/click-6c7767887f75db1d5e7cd9508e07bace.wav:10984
 a:audio/sfx/fireball.wav:audio/sfx/fireball-3365cb7ba6e364ca682d5275dde1dc8e.wav:294990:audio/x-wav:1
 a:audio/sfx/pickup_sp.wav:audio/sfx/pickup_sp-a187c9dea5ea5758cb0cfc4c29564ab7.wav:1059918:audio/x-wav:1
 a:audio/sfx/elden.mp3:audio/sfx/elden-7d183da771cc48621e8f61248163ae42.mp3:6815242:audio/mpeg:1
-t:assets.txt:assets-89ceff5af06c03955a4bb75043fae2bf.txt:1432:text/plain:1
+t:assets.txt:assets-9704b9d6c1b85013193f0d04985611db.txt:1514:text/plain:1
 d:sprites:sprites:0:application/unknown:1
 i:sprites/shadow.png:sprites/shadow-ef0740b9f4f0fd21322aff8120a25113.png:143:image/png:1
 d:sprites/items:sprites/items:0:application/unknown:1
@@ -66,6 +66,9 @@ d:sprites/characters/spr:sprites/characters/spr:0:application/unknown:1
 i:sprites/characters/spr/lily_spr.png:sprites/characters/spr/lily_spr-f40ad2bd38f606439d09a1c9817d5eaf.png:1547:image/png:1
 i:sprites/characters/spr/rain_spr.png:sprites/characters/spr/rain_spr-68bf53f5b17aafd7a1b1dab4bdeb0edf.png:1650:image/png:1
 d:sprites/entities:sprites/entities:0:application/unknown:1
+d:sprites/entities/echoes:sprites/entities/echoes:0:application/unknown:1
+i:sprites/entities/echoes/cubian_echo.png:sprites/entities/echoes/cubian_echo-8333de2db3b4b764808675205136128d.png:823:image/png:1
+t:sprites/entities/echoes/cubian_echo.atlas:sprites/entities/echoes/cubian_echo-372308ccb3b9ef521f07cb2f77f54426.atlas:365:application/unknown:1
 d:sprites/entities/other:sprites/entities/other:0:application/unknown:1
 t:sprites/entities/other/fire_burst.atlas:sprites/entities/other/fire_burst-28b909b26cc1611b4460958a21000f5f.atlas:195:application/unknown:1
 i:sprites/entities/other/campfire.png:sprites/entities/other/campfire-86cb1d4f37f38ea5b7d8941fd690a058.png:433:image/png:1

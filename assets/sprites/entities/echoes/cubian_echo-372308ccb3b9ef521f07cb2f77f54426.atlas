@@ -1,0 +1,27 @@
+cubian_echo.png
+size:128,32
+repeat:none
+east_walk
+  bounds:2,2,16,16
+  index:0
+east_idle
+  bounds:2,2,16,16
+  index:-1
+north_walk
+  bounds:56,2,16,16
+  index:0
+north_idle
+  bounds:56,2,16,16
+  index:-1
+south_walk
+  bounds:38,2,16,16
+  index:0
+south_idle
+  bounds:38,2,16,16
+  index:-1
+west_walk
+  bounds:20,2,16,16
+  index:0
+west_idle
+  bounds:20,2,16,16
+  index:-1
