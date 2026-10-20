@@ -14,6 +14,7 @@ b:particles/rain.p:particles/rain-afc69d9e6c67f8d1dc0cd9ae868f4c69.p:2334:applic
 d:ui:ui:0:application/unknown:1
 i:ui/menu_sp.png:ui/menu_sp-2e9d32038d86aedbe71062e6d4c489bf.png:105:image/png:1
 i:ui/bar_pwr.png:ui/bar_pwr-92ae2d114c9b25d57dbdc7bff6e35f6c.png:112:image/png:1
+i:ui/prosperity.png:ui/prosperity-4595f0cbae495ebdc22927270b1fac9f.png:819:image/png:1
 i:ui/stardust_full.png:ui/stardust_full-f10f4b4171f80873e516935d1f1246bc.png:385:image/png:1
 i:ui/tile_no.png:ui/tile_no-b06c3e124887bedb10075254935f7925.png:171:image/png:1
 i:ui/stardust_full_2.png:ui/stardust_full_2-d4cceb0acce87a6fd1edbfea41d1fd68.png:414:image/png:1
@@ -22,7 +23,9 @@ i:ui/bar_hp.png:ui/bar_hp-1d1beb8bbd4a8401f4f564c18687add7.png:111:image/png:1
 i:ui/title.png:ui/title-fb23571a1ac8f5ff13c7e2cb2b257aef.png:623:image/png:1
 i:ui/stardust_empty.png:ui/stardust_empty-ea77a30841f0a850c4c8765cc042da64.png:178:image/png:1
 i:ui/menu.png:ui/menu-346cd1d24dc9d81c002e50f364f090a3.png:107:image/png:1
+i:ui/corrupted.png:ui/corrupted-65561c0df6c1d195b5eebbff56b5be39.png:785:image/png:1
 i:ui/logo.png:ui/logo-350a4f13b364e20df8c67ec79d6ada19.png:7678:image/png:1
+i:ui/parity.png:ui/parity-f3ec0ade01d716df9a94639d5d0c7cf0.png:707:image/png:1
 i:ui/bar_base.png:ui/bar_base-1ee18410d18257889a5c74de7fa713af.png:112:image/png:1
 i:ui/tile_yes.png:ui/tile_yes-a21fd57a1cff4ec061354eabcc2bec33.png:197:image/png:1
 i:ui/logo_old.png:ui/logo_old-9bbe08ee4302383ef563046864f0d3c1.png:7086:image/png:1
@@ -48,7 +51,7 @@ a:audio/sfx/click.wav:audio/sfx/click-6c7767887f75db1d5e7cd9508e07bace.wav:10984
 a:audio/sfx/fireball.wav:audio/sfx/fireball-3365cb7ba6e364ca682d5275dde1dc8e.wav:294990:audio/x-wav:1
 a:audio/sfx/pickup_sp.wav:audio/sfx/pickup_sp-a187c9dea5ea5758cb0cfc4c29564ab7.wav:1059918:audio/x-wav:1
 a:audio/sfx/elden.mp3:audio/sfx/elden-7d183da771cc48621e8f61248163ae42.mp3:6815242:audio/mpeg:1
-t:assets.txt:assets-9704b9d6c1b85013193f0d04985611db.txt:1514:text/plain:1
+t:assets.txt:assets-686ac4aebc7019ea61223129656f3162.txt:1563:text/plain:1
 d:sprites:sprites:0:application/unknown:1
 i:sprites/shadow.png:sprites/shadow-ef0740b9f4f0fd21322aff8120a25113.png:143:image/png:1
 d:sprites/items:sprites/items:0:application/unknown:1

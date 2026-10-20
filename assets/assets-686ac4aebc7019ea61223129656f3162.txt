@@ -47,11 +47,14 @@ sprites/shadow.png
 ui/bar_base.png
 ui/bar_hp.png
 ui/bar_pwr.png
+ui/corrupted.png
 ui/exboom.png
 ui/logo.png
 ui/logo_old.png
 ui/menu.png
 ui/menu_sp.png
+ui/parity.png
+ui/prosperity.png
 ui/stardust_empty.png
 ui/stardust_full.png
 ui/stardust_full_2.png
