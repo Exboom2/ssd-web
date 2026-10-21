@@ -81,7 +81,7 @@ d:sprites/entities/breakables:sprites/entities/breakables:0:application/unknown:
 i:sprites/entities/breakables/westernTree.png:sprites/entities/breakables/westernTree-5d7acce0549296a9ea5952a87a842beb.png:391:image/png:1
 i:sprites/entities/breakables/smallStone.png:sprites/entities/breakables/smallStone-2e1816317fa6bd8e25ca34e1f7edc743.png:253:image/png:1
 d:sprites/fog:sprites/fog:0:application/unknown:1
-i:sprites/fog/dark_fog.png:sprites/fog/dark_fog-7345aa4342f0be8a5cb4bd9dd2540a43.png:8708:image/png:1
+i:sprites/fog/dark_fog.png:sprites/fog/dark_fog-30edc4f05c14be1485082fc44daf4e55.png:9097:image/png:1
 i:sprites/fog/fog.png:sprites/fog/fog-b18da0fbb130d704576d117471aab4b4.png:12910:image/png:1
 t:com/badlogic/gdx/graphics/g3d/particles/particles.fragment.glsl:particles.fragment-b90524761fdf09b0a836056d590c30b8.glsl:820:application/unknown:1
 t:com/badlogic/gdx/graphics/g3d/particles/particles.vertex.glsl:particles.vertex-f25b8b2fae10b9bfa09bfdd484923148.glsl:2886:application/unknown:1
