@@ -17,6 +17,7 @@ fonts/font10.fnt
 fonts/font10.png
 fonts/font16.fnt
 fonts/font16.png
+maps/test/combat_demo.tmx
 maps/test/wooded.tmx
 maps/test/wooded_tiles.png
 maps/test/wooded_tiles.tsx

@@ -35,6 +35,7 @@ d:maps:maps:0:application/unknown:1
 d:maps/test:maps/test:0:application/unknown:1
 b:maps/test/wooded.tmx:maps/test/wooded-bb7bee43f941f62105ae96530dbd6cf3.tmx:150339:application/unknown:1
 i:maps/test/wooded_tiles.png:maps/test/wooded_tiles-a7e5d04b18cea0a94ca40047fc33265f.png:7446:image/png:1
+b:maps/test/combat_demo.tmx:maps/test/combat_demo-a94e21246739d43ffd070538d15a8137.tmx:3653:application/unknown:1
 b:maps/test/wooded_tiles.tsx:maps/test/wooded_tiles-9f716d820bbf5e7a0171c5370d0c7454.tsx:7023:application/unknown:1
 d:audio:audio:0:application/unknown:1
 d:audio/music:audio/music:0:application/unknown:1
@@ -53,7 +54,7 @@ a:audio/sfx/click.wav:audio/sfx/click-6c7767887f75db1d5e7cd9508e07bace.wav:10984
 a:audio/sfx/fireball.wav:audio/sfx/fireball-3365cb7ba6e364ca682d5275dde1dc8e.wav:294990:audio/x-wav:1
 a:audio/sfx/pickup_sp.wav:audio/sfx/pickup_sp-a187c9dea5ea5758cb0cfc4c29564ab7.wav:1059918:audio/x-wav:1
 a:audio/sfx/elden.mp3:audio/sfx/elden-7d183da771cc48621e8f61248163ae42.mp3:6815242:audio/mpeg:1
-t:assets.txt:assets-c9f7cb60790a89ab6193275cb4782ce3.txt:1616:text/plain:1
+t:assets.txt:assets-844de4c7c6d806538611d73f4efb0565.txt:1642:text/plain:1
 d:sprites:sprites:0:application/unknown:1
 i:sprites/shadow.png:sprites/shadow-ef0740b9f4f0fd21322aff8120a25113.png:143:image/png:1
 d:sprites/items:sprites/items:0:application/unknown:1
