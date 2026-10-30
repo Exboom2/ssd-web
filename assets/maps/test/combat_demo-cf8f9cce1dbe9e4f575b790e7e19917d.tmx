@@ -58,6 +58,6 @@
   <object id="2" type="armingSword" x="32.25" y="191.75"/>
   <object id="3" type="cubianEcho" x="300" y="180"/>
   <object id="4" type="cubianEcho" x="260" y="100"/>
-  <object id="5" type="cubianEcho" x="320" y="270"/>
+  <object id="5" type="cubianWanderer" x="320" y="270"/>
  </objectgroup>
 </map>
