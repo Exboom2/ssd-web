@@ -35,7 +35,7 @@ d:maps:maps:0:application/unknown:1
 d:maps/test:maps/test:0:application/unknown:1
 b:maps/test/wooded.tmx:maps/test/wooded-bb7bee43f941f62105ae96530dbd6cf3.tmx:150339:application/unknown:1
 i:maps/test/wooded_tiles.png:maps/test/wooded_tiles-a7e5d04b18cea0a94ca40047fc33265f.png:7446:image/png:1
-b:maps/test/combat_demo.tmx:maps/test/combat_demo-cf8f9cce1dbe9e4f575b790e7e19917d.tmx:3657:application/unknown:1
+b:maps/test/combat_demo.tmx:maps/test/combat_demo-f005a683e208ca1604e1facba030fb05.tmx:3657:application/unknown:1
 b:maps/test/wooded_tiles.tsx:maps/test/wooded_tiles-9f716d820bbf5e7a0171c5370d0c7454.tsx:7023:application/unknown:1
 d:audio:audio:0:application/unknown:1
 d:audio/music:audio/music:0:application/unknown:1
