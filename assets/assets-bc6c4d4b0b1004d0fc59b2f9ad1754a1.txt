@@ -35,8 +35,8 @@ sprites/characters/spr/lily_spr.png
 sprites/characters/spr/rain_spr.png
 sprites/entities/breakables/smallStone.png
 sprites/entities/breakables/westernTree.png
-sprites/entities/echoes/cubian.atlas
-sprites/entities/echoes/cubian.png
+sprites/entities/cubians/cubian.atlas
+sprites/entities/cubians/cubian.png
 sprites/entities/other/campfire.atlas
 sprites/entities/other/campfire.png
 sprites/entities/other/fire_burst.atlas

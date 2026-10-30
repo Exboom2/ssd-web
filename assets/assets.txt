@@ -54,7 +54,7 @@ a:audio/sfx/click.wav:audio/sfx/click-6c7767887f75db1d5e7cd9508e07bace.wav:10984
 a:audio/sfx/fireball.wav:audio/sfx/fireball-3365cb7ba6e364ca682d5275dde1dc8e.wav:294990:audio/x-wav:1
 a:audio/sfx/pickup_sp.wav:audio/sfx/pickup_sp-a187c9dea5ea5758cb0cfc4c29564ab7.wav:1059918:audio/x-wav:1
 a:audio/sfx/elden.mp3:audio/sfx/elden-7d183da771cc48621e8f61248163ae42.mp3:6815242:audio/mpeg:1
-t:assets.txt:assets-844de4c7c6d806538611d73f4efb0565.txt:1642:text/plain:1
+t:assets.txt:assets-bc6c4d4b0b1004d0fc59b2f9ad1754a1.txt:1644:text/plain:1
 d:sprites:sprites:0:application/unknown:1
 i:sprites/shadow.png:sprites/shadow-ef0740b9f4f0fd21322aff8120a25113.png:143:image/png:1
 d:sprites/items:sprites/items:0:application/unknown:1
@@ -72,9 +72,9 @@ d:sprites/characters/spr:sprites/characters/spr:0:application/unknown:1
 i:sprites/characters/spr/lily_spr.png:sprites/characters/spr/lily_spr-f40ad2bd38f606439d09a1c9817d5eaf.png:1547:image/png:1
 i:sprites/characters/spr/rain_spr.png:sprites/characters/spr/rain_spr-68bf53f5b17aafd7a1b1dab4bdeb0edf.png:1650:image/png:1
 d:sprites/entities:sprites/entities:0:application/unknown:1
-d:sprites/entities/echoes:sprites/entities/echoes:0:application/unknown:1
-t:sprites/entities/echoes/cubian.atlas:sprites/entities/echoes/cubian-0221726287865023d08d2de4ad78aa8c.atlas:608:application/unknown:1
-i:sprites/entities/echoes/cubian.png:sprites/entities/echoes/cubian-5efe6bc09a8b1941015132890f5180d7.png:1831:image/png:1
+d:sprites/entities/cubians:sprites/entities/cubians:0:application/unknown:1
+t:sprites/entities/cubians/cubian.atlas:sprites/entities/cubians/cubian-0221726287865023d08d2de4ad78aa8c.atlas:608:application/unknown:1
+i:sprites/entities/cubians/cubian.png:sprites/entities/cubians/cubian-12a7a8c6c5365733ef82e1d6d86ebda5.png:975:image/png:1
 d:sprites/entities/other:sprites/entities/other:0:application/unknown:1
 t:sprites/entities/other/fire_burst.atlas:sprites/entities/other/fire_burst-28b909b26cc1611b4460958a21000f5f.atlas:195:application/unknown:1
 i:sprites/entities/other/campfire.png:sprites/entities/other/campfire-86cb1d4f37f38ea5b7d8941fd690a058.png:433:image/png:1
